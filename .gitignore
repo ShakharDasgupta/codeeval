@@ -1,0 +1,7 @@
+# Executables
+*
+!/**/
+!*.*
+
+# Java class files
+*.class
